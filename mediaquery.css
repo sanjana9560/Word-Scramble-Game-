@@ -1,0 +1,15 @@
+
+@media only screen and (max-width: 600px) {
+
+    section{
+        height: 70vh;
+    }
+    .gameArea {
+        width: 90%; 
+        height: 300px;
+    }
+
+    input {
+        width: 90%;
+    }
+}
